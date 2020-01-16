@@ -12,7 +12,6 @@ Please answer the following questions and document your findings with the code i
 4. Lastly, if I typically enjoy a beer due to its aroma and appearance, which beer style should I try?
 5. Present the answers visually in the form of your choice.
  
-Data file can be downloaded from the following link: https://ibm.box.com/v/IBM-Junior-DataScience
 
 ### The DataSet desc:
 The data has around ~1.5 million beer reviews spanning for a period over 10 years, up to November 2011. 
